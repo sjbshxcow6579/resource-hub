@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sjbshxcow6579.github.io/resource-hub/sitemap.xml
